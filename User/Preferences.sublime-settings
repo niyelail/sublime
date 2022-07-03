@@ -3,7 +3,7 @@
 	"ignored_packages":
 	[
 		"Emmet",
-		"Vintage"
+		"Vintage",
 	],
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
 }

@@ -13,17 +13,20 @@
 		"Emmet",
 		"FileIcons",
 		"Git",
+		"Golang",
 		"HTML5",
 		"HTML5 Doctor CSS Reset snippet",
 		"LiveReload",
+		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"Markmon real-time markdown preview",
 		"Material Theme",
 		"Package Control",
 		"PHP Syntax Checker",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"SublimeREPL",
-		"Theme - Spacegray"
-	]
+		"Theme - Spacegray",
+	],
 }
